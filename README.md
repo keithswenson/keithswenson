@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @keithswenson
 - 👀 I’m interested in state. What is your data model? Is it impeding efficient code?
-- 🌱 I’m currently contemplating how to make my code simpler while still meeting the requirements.
+- 🌱 I’m currently contemplating how to make my code the simplest while still meeting the requirements.
 - 💞️ If I had more time I would collaborate on compelling software with good people.
 - 📫 How to reach me ...
 
